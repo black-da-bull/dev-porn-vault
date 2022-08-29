@@ -85,7 +85,7 @@
     "semver": "^7.3.4",
     "swr": "^1.2.2",
     "tiny-async-pool": "^1.2.0",
-    "ts-node": "^10.2.0",
+    "ts-node": "^10.9.1",
     "typescript": "^4.3.2",
     "winston": "^3.3.3",
     "winston-daily-rotate-file": "^4.5.0",
